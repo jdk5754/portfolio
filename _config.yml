@@ -1,5 +1,4 @@
 title: Jonathan Kelso 
-logo: /assests/Screenshot 2024-01-20 at 11.15.12 PM.png
-description: Undergrad at Penn State
-show_downloads: true
+logo: /assests/Screenshot 2024-01-20 at 11.15.12 PM.png=250x250
+show_downloads: false
 theme: jekyll-theme-minimal
